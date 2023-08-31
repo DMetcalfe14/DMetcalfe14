@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Douglas Metcalfe</h1>
-<h3 align="center">A Digital Organisational Development Officer with a demonstrated history of delivering creative
+<h3 align="center">A multi-disciplinary technical professional with a demonstrated history of delivering creative
     digital solutions in the field of Learning and Development. Interested in learning technologies, software
     development, and UX and instructional design.</h3>
 
